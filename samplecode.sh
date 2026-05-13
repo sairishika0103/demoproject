@@ -1,2 +1,2 @@
 echo "Welcome to sample code"
-hello
+echo "hello"
